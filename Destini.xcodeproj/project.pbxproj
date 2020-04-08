@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4CB5818B243DF910006503F1 /* StoryBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB5818A243DF910006503F1 /* StoryBrain.swift */; };
 		4CDA4761243D7616006A5D48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA4760243D7616006A5D48 /* AppDelegate.swift */; };
 		4CDA4763243D7616006A5D48 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA4762243D7616006A5D48 /* SceneDelegate.swift */; };
 		4CDA4765243D7616006A5D48 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDA4764243D7616006A5D48 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4CB5818A243DF910006503F1 /* StoryBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryBrain.swift; sourceTree = "<group>"; };
 		4CDA475D243D7616006A5D48 /* Destini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Destini.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CDA4760243D7616006A5D48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4CDA4762243D7616006A5D48 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				4CDA4778243DBBA3006A5D48 /* Story.swift */,
+				4CB5818A243DF910006503F1 /* StoryBrain.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CB5818B243DF910006503F1 /* StoryBrain.swift in Sources */,
 				4CDA4765243D7616006A5D48 /* ViewController.swift in Sources */,
 				4CDA4761243D7616006A5D48 /* AppDelegate.swift in Sources */,
 				4CDA4763243D7616006A5D48 /* SceneDelegate.swift in Sources */,
